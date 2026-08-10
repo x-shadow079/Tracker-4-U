@@ -1,0 +1,6 @@
+{
+  "name": "Tracker 4 U",
+  "description": "Anti-anxiety habit tracker, adult website blocker, weekly streaks counter, shorts counter, screen time limit lock, and urge-distractor mini-games (Ludo & Chess).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
